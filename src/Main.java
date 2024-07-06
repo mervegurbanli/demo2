@@ -6,7 +6,7 @@ public class Main {
 
 
 
-        System.out.println(occurenceChar("eeeacrrrrrrr",'e'));
+        System.out.println(occurenceChar("eeearrrrr",'e'));
 
     }
 
